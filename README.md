@@ -2,7 +2,7 @@
 https://youtu.be/Br9Wo0VgP5g
 
 # run file
-`` python3 main.py ``
+`` python3 contest_scraper.py ``
 
 # Working for
 1. Code Forces
