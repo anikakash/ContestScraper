@@ -13,3 +13,4 @@ script, the user can get all the information about the contest, which helps the 
 2. At Coder
 3. Code Chef
 
+https://chat.openai.com/c/9894e7fa-7553-40f2-9126-c64b62e9145a
